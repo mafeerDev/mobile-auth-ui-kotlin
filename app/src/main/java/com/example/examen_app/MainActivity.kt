@@ -8,7 +8,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import com.example.examen_app.ui.screen.container.ScreenContainer
-import com.example.examen_app.ui.theme.Examen_appTheme // Asegúrate que el nombre del tema coincida
+import com.example.examen_app.ui.theme.Examen_appTheme 
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
